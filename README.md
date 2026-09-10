@@ -1,2 +1,6 @@
 # emea-iam-authorization-sms-gateway-svc
-identity-and-access / standard / emea
+
+Team: **identity-and-access**  
+Tier: **standard**  
+Region: **emea**  
+Synthetic demo repo for the Domo governance platform.
